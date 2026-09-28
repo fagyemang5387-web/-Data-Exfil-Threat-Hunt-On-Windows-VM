@@ -1,6 +1,6 @@
 # 🚨 Threat Hunt Investigation: Data Exfiltration By Disgruntled Employee 
 
-**Author:** James Moore  \
+**Author:** Frank Agyemang \
 **Date:** April 13, 2025  \
 **Lab Type:** Threat Hunting / Data Exfiltration / MITRE ATT&CK Mapping  \
 
